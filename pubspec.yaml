@@ -1,11 +1,11 @@
-name: thermometer
+name: thermometerslider
 description: a slider that looks like a thermometer
 publish_to: 'none' 
 
 version: 1.0.0+1
 
 environment:
-  sdk: '>=3.0.5 <4.0.0'
+  sdk: '>=3.0.0 <4.0.0'
 
 dependencies:
   flutter:

@@ -8,7 +8,7 @@
 PRODUCT_NAME = thermometer
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = edu.virginia.cs.thermometer
+PRODUCT_BUNDLE_IDENTIFIER = com.example.thermometer
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2023 edu.virginia.cs. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2023 com.example. All rights reserved.

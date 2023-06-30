@@ -1,4 +1,4 @@
-package edu.virginia.cs.thermometer
+package com.example.thermometer
 
 import io.flutter.embedding.android.FlutterActivity
 

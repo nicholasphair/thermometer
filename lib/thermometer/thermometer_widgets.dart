@@ -21,7 +21,8 @@ class _ThermometerSliderState extends State<ThermometerSlider> {
           trackHeight: MediaQuery.of(context).size.height,
           trackShape: ThermometerSliderTrackShape(_temp.toInt()),
           showValueIndicator: ShowValueIndicator.never,
-          valueIndicatorColor: Colors.blue,
+          valueIndicatorColor:
+              Theme.of(context).sliderTheme.valueIndicatorColor,
           thumbShape: const ThermometerThumbShape(),
           overlayShape: const RoundSliderOverlayShape(overlayRadius: 10),
         ),

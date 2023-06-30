@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:thermometer/thermometer/slider/thermometer_slider.dart';
+import 'package:thermometerslider/thermometer/slider/thermometer_slider.dart';
 
 class ThermometerSlider extends StatefulWidget {
   // Callback to notify parent of value change.

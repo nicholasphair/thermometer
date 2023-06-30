@@ -1,1 +1,1 @@
-export 'themometer_widgets.dart';
+export 'thermometer_widgets.dart';

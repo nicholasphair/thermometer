@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'thermometer/thermometer.dart';
+import 'package:thermometerslider/thermometer/thermometer.dart';
 
 // Example usage.
 void main() async {

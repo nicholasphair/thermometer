@@ -18,7 +18,7 @@ class _ThermometerSliderState extends State<ThermometerSlider> {
   Widget build(BuildContext context) {
     return SliderTheme(
         data: SliderTheme.of(context).copyWith(
-          trackHeight: MediaQuery.of(context).size.height,
+          trackHeight: MediaQuery.sizeOf(context).height,
           trackShape: ThermometerSliderTrackShape(_temp.toInt()),
           showValueIndicator: ShowValueIndicator.never,
           valueIndicatorColor:
